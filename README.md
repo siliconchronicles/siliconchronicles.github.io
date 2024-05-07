@@ -7,4 +7,5 @@ Welcome! This website contains support information for the projects I discuss in
 ## Projects
 
 * [Clock module](/clock-module): A compact clock with adjustable speed (1-480Hz) and step-by-step. Useful for debugging sequential circuits.
-  
+* [Logic gates](/logic-gates): An exploration of different technologies and designs to build logic gates.
+
