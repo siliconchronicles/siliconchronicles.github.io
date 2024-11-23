@@ -7,6 +7,9 @@ Welcome! This website contains support information for the projects I discuss in
 ## Projects
 
 * [Clock module](/clock-module): A compact clock with adjustable speed (1-480Hz) and step-by-step. Useful for debugging sequential circuits.
-* [Display module](/output-module): A breadboard circuit to display 8 bit values in decimal/hex with support for both signed and unsigned numbers.
+* [Display module](/output-module): A breadboard circuit to display 8-bit values in decimal/hex with support for both signed and unsigned numbers.
 * [Logic gates](/logic-gates): An exploration of different technologies and designs to build logic gates.
 
+## Other videos
+
+* [Practical Theory](https://siliconchronicles.github.io/practical-theory/): This series of videos presents electronics theory in a way that can be experimented with and easily applied.
